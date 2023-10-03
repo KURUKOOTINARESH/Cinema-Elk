@@ -2,7 +2,8 @@
 ![Screenshot (630)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/0edd7169-118d-4a89-abb4-d1023d445a4a)
 ![Screenshot (631)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/3cd0aaaf-e73a-4329-a409-488701acdc9e)
 ![Screenshot (632)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/e5a37794-cc64-4c66-a299-fbe8beff5b6c)
-![Screenshot (639)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/9337da72-b873-40ce-981c-564895c5c376)
+![Screenshot (642)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/f458946b-6636-4545-8651-b3d2b08b824e)
+
 ![Screenshot (633)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/b9b8e115-21f9-41a1-b7b5-7e1a1e51f38b)
 ![Screenshot (634)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/45169d32-99eb-4fbb-ba0e-b26fe8d09c88)
 ![Screenshot (635)](https://github.com/KURUKOOTINARESH/Cinema-Elk/assets/30923105/d008c522-54e9-4a65-8ad4-efa07c4de1fc)
