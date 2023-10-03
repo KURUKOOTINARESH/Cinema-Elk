@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+.auth-page{
+    background-color: #F15A24;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.right-section{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.left-section{
+    width: 50%;
+}
+.auth-img{
+    width: 80%;
+}
+.form-con{
+    width: 60%;
+}
+.input-field{
+    width: fill-available;
+    padding: 1rem;
+    outline: none;
+    border: none;
+    margin: 1rem 0;
+    height: 24px;
+}
+.input-field:focus{
+    border-bottom: 3px solid black;
+}
+.login-button{
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 0.8rem 1rem;
+    width: 100%;
+    color: white;
+    font-weight: 700;
+    transition: 0.5s;
+}
+.login-button:hover{
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+.form-controls-con{
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    margin-top: 1rem;
+}
+h1{
+    font-family: "Knewave";
+    font-size: 52px;
+    letter-spacing: 2px;
+    align-self: flex-start;
+    margin-left: 20%;
+}
+.form-con p{
+    text-align: start;
+}
+.form-con span{
+    text-decoration: underline;
+}
+.form-con span:hover{
+    cursor: pointer;
+}

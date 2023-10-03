@@ -1,0 +1,23 @@
+.navbar{
+    width: 10vw;
+    border-right: 2px solid rgba(128, 128, 128, 0.53);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2.5rem;
+    gap: 1rem;
+    height: 77vh;
+}
+.nav-icon{
+    height: 36px;
+    width: 36px;
+    padding: 1rem;
+    border-radius: 30px;
+}
+.active{
+    background-color: rgba(128, 128, 128, 0.496);
+}
+.nav-icon:hover{
+    cursor: pointer;
+    background-color: rgba(128, 128, 128, 0.496);
+}

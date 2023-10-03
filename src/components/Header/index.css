@@ -1,0 +1,33 @@
+.header{
+    height: 12vh;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.5);
+    display: flex;
+    padding: 1rem 2rem;
+    padding-bottom: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+h2{
+    font-family: "Knewave";
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-left: 1rem;
+}
+.logout-btn{
+    width: 160px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    height: 42px;
+    background-color: rgb(42, 122, 234);
+    transition: 0.5s;
+}
+.logout-btn:hover{
+    cursor: pointer;
+    letter-spacing: 1px;
+    
+}
+.logo-con:hover{
+    cursor: pointer;
+}

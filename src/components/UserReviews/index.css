@@ -1,0 +1,9 @@
+.review-control-icon{
+    color: white;
+    padding: 0.5rem;
+    border-radius: 100%;
+    margin-left: 0.8rem;
+}
+.review-control-icon:hover{
+    cursor: pointer;
+}
